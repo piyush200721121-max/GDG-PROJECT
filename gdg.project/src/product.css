@@ -1,0 +1,9 @@
+.product-name {
+    font-size: clamp(1.25rem, 2.5vw, 2rem);
+    margin: 0 0 0.75rem;
+}
+
+.product-description,
+.product-price {
+    line-height: 1.5;
+}
