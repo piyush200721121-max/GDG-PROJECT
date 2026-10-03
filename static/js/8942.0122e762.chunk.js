@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkgdg_project||=[]).push([[8942],{8942(a,r,e){e.r(r);var h=e(6817),i=(e(7669),e(162),e(2337));e(4480),e(9935),e(4036);(0,i.d)("Hair",(a,r,e)=>new h.k(a,r,e)),(0,i.a)("hair")}}]);
+//# sourceMappingURL=8942.0122e762.chunk.js.map
