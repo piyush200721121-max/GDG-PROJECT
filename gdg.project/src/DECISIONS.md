@@ -5,4 +5,4 @@ I am a new learner to React. At the begining I started with CSS and HTML but i f
 
 Problem: Make the site responsive.
 Solution :-
-Small projects that I made in starting of learning CS and Html were mmade responsive by using width equal to 100%. But having multiple div would not allow the same metho to make our sites responsive. Then I read about clamp thing used in css. Though I would not lie that I used AI to make my site responsive as I discovered this method recently and will for sure work upon it on my upcoming projects
+Small projects that I made in starting of learning CSS and Html were made responsive by using width equal to 100%. But having multiple div with different utility would not allow the same method to make our sites responsive. Then I read about dynamic CSS and one of its property clamp. Wont lie I took help from AI but also learned this property will sure use it in any of my further work. 
